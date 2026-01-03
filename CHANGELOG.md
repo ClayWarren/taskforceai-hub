@@ -272,13 +272,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **Main Website**: https://taskforceai.chat
 - **Documentation**: https://docs.taskforceai.chat
-- **GitHub Repository**: https://github.com/ClayWarren/grok4fastheavy
+- **GitHub Repository**: https://github.com/ClayWarren/taskforceai-hub
 - **API Documentation**: https://taskforceai.chat/docs/api
 - **Developer Dashboard**: https://taskforceai.chat/dashboard
 - **Status Page**: https://status.taskforceai.chat
 
 ---
 
-[Unreleased]: https://github.com/ClayWarren/grok4fastheavy/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/ClayWarren/grok4fastheavy/releases/tag/v1.0.0
-[0.1.0]: https://github.com/ClayWarren/grok4fastheavy/releases/tag/v0.1.0
+[Unreleased]: https://github.com/ClayWarren/taskforceai/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/ClayWarren/taskforceai/releases/tag/v1.0.0
+[0.1.0]: https://github.com/ClayWarren/taskforceai/releases/tag/v0.1.0

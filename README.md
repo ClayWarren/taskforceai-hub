@@ -1,6 +1,6 @@
 # TaskForceAI
 
-**TaskForceAI** is a multi-agent orchestration platform that emulates the behavior of Grok 4 Heavy but is model-agnostic. It is a production-ready system talking to the Vercel AI Gateway using TanStack Start.
+**TaskForceAI** is a multi-agent orchestration platform that emulates the behavior of Grok 4 Heavy but is model-agnostic. It is a production-ready system.
 
 ## 🌟 Ecosystem
 
@@ -54,6 +54,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for a unified history of updates across all p
 
 Individual components are licensed under their respective licenses (mostly MIT). See specific repositories for details.
 
-- In addition to the developer suite, TaskForceAI has mobile (ios/android), web, and desktop (macOS/Linux/Windows) apps.
-- Our server hosts the core package, and connects to the multiple clients.
-- Everything offered can be accessed from the main company site. 
+- In addition to the developer suite, TaskForceAI has:
+- Apps: React Native Expo mobile (ios/android), Typescript Tanstack Start web, and Rust Tauri desktop (macOS/Linux/Windows).
+- Our Go server hosts the core package (Go), and connects to the multiple clients.
+- Everything publicly offered can be accessed from the main company site. 

@@ -57,4 +57,5 @@ Individual components are licensed under their respective licenses (mostly MIT).
 - In addition to the developer suite, TaskForceAI has:
 - Apps: React Native Expo mobile (ios/android), Typescript Tanstack Start web, and Rust Tauri desktop (macOS/Linux/Windows).
 - Our Go server hosts the core package (Go), and connects to the multiple clients, services.
+- Agent Tools: Web Search, Code Execution, Files.
 - Everything publicly offered can be accessed from the main company site. 

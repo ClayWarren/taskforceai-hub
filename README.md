@@ -55,7 +55,9 @@ See [CHANGELOG.md](./CHANGELOG.md) for a unified history of updates across all p
 Individual components are licensed under their respective licenses (mostly MIT). See specific repositories for details.
 
 - In addition to the developer suite, TaskForceAI has:
-- Apps: React Native Expo mobile (ios/android), Typescript Tanstack Start web, and Rust Tauri desktop (macOS/Linux/Windows).
+- Apps: React Native Expo mobile (ios/android), Typescript/Tailwind CSS Tanstack Start web, and Rust Tauri desktop (macOS/Linux/Windows).
 - Our Go server hosts the core package (Go), and connects to the multiple clients, services.
 - Agent Tools: Web Search, Code Execution, Files.
-- Everything publicly offered can be accessed from the main company site. 
+- Everything publicly offered can be accessed from the main company site (Nextjs).
+- Deployed on Vercel, uses Vercel AI Gateway, Vercel Blob installers, Redis cache. 
+- Databases: Postgres for web, SQLite for mobile, desktop, cli. 

@@ -62,3 +62,4 @@ Individual components are licensed under their respective licenses (mostly MIT).
 - Deployed on Vercel. Uses Vercel AI Gateway, Vercel Blob installers, Redis cache, Inngest background jobs, Stripe. 
 - Databases: Postgres for web, SQLite for mobile, desktop, cli. 
 - Web also uses fusejs for local search, dexiejs (indexedDB) for local storage.
+- Many more details behind the scenes...

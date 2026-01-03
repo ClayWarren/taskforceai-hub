@@ -54,6 +54,6 @@ See [CHANGELOG.md](./CHANGELOG.md) for a unified history of updates across all p
 
 Individual components are licensed under their respective licenses (mostly MIT). See specific repositories for details.
 
-- In addition to the developer suite, TaskForceAI has mobile (ios/android), web, desktop (macOS/Linux/Windows) apps.
+- In addition to the developer suite, TaskForceAI has mobile (ios/android), web, and desktop (macOS/Linux/Windows) apps.
 - Our server hosts the core package, and connects to the multiple clients.
 - Everything offered can be accessed from the main company site. 

@@ -59,5 +59,6 @@ Individual components are licensed under their respective licenses (mostly MIT).
 - Our Go server hosts the core package (Go), and connects to the multiple clients, services.
 - Agent Tools: Web Search, Code Execution, Files.
 - Everything publicly offered can be accessed from the main company site (Nextjs).
-- Deployed on Vercel, uses Vercel AI Gateway, Vercel Blob installers, Redis cache. 
+- Deployed on Vercel. Uses Vercel AI Gateway, Vercel Blob installers, Redis cache, Inngest background jobs, Stripe. 
 - Databases: Postgres for web, SQLite for mobile, desktop, cli. 
+- Web also uses fusejs for local search, dexiejs (indexedDB) for local storage.

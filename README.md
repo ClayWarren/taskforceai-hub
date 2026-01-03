@@ -1,6 +1,6 @@
 # TaskForceAI
 
-**TaskForceAI** is a multi-agent orchestration platform that emulates the behavior of Grok 4 Heavy but powered by Grok 4.1 Fast (default). It is a production-ready system talking to the Vercel AI Gateway using TanStack Start.
+**TaskForceAI** is a multi-agent orchestration platform that emulates the behavior of Grok 4 Heavy but is model-agnostic. It is a production-ready system talking to the Vercel AI Gateway using TanStack Start.
 
 ## 🌟 Ecosystem
 

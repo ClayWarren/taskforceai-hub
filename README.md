@@ -35,6 +35,16 @@ This repository serves as the central hub for the TaskForceAI ecosystem. While t
   ```bash
   npm install taskforceai-sdk
   ```
+### 🍺 Package Distribution
+
+* **[Homebrew Tap](https://github.com/ClayWarren/homebrew-taskforceai)**
+
+Official Homebrew tap for installing and managing TaskForceAI CLI releases on macOS.
+
+```bash
+brew tap ClayWarren/taskforceai
+brew install taskforceai-cli
+```
 
 ## 📖 Documentation
 

@@ -61,7 +61,7 @@ brew install taskforceai-cli
 
 ## 📖 Documentation
 
-- **[Official Documentation](https://docs.taskforceai.chat)** - Comprehensive guides, API references, and tutorials.
+- **[Official Documentation](https://taskforceai.chat/docs)** - Comprehensive guides, API references, and tutorials.
 - **[REST API Reference](https://taskforceai.chat/docs/api)** - Detailed API endpoints and usage.
 
 ## 🛤️ Roadmap & Changelog
@@ -70,8 +70,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for a unified history of updates across all p
 
 ## 🤝 Support
 
-- **Issues**: Please file issues in the specific repository (e.g., TUI, SDKs) or reach out via our [support channels](https://taskforceai.chat/support).
-- **Discussions**: Join the community on [GitHub Discussions](https://github.com/claywarren/taskforceai/discussions).
+- **Issues**: Please file issues in the specific repository (e.g., TUI, SDKs).
 
 ## 📄 License
 

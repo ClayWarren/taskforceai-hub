@@ -35,9 +35,18 @@ This repository serves as the central hub for the TaskForceAI ecosystem. While t
   ```bash
   npm install taskforceai-sdk
   ```
+  
 - **[Rust SDK](https://github.com/ClayWarren/taskforceai-sdk-rust)**
 
+  ```bash
+  cargo add taskforceai-sdk
+  ```
+
 - **[Go SDK](https://github.com/ClayWarren/taskforceai-sdk-go)**
+
+  ```bash
+  go get github.com/ClayWarren/taskforceai-sdk-go
+  ```
   
 ### 🍺 Package Distribution
 

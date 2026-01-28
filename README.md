@@ -17,7 +17,7 @@ This repository serves as the central hub for the TaskForceAI ecosystem. While t
   brew install taskforceai-cli
 
   # Native Installer (Cross-platform)
-  curl -fsSL https://raw.githubusercontent.com/ClayWarren/taskforceai-tui/main/install.sh | bash
+  curl -fsSL https://taskforceai.chat/install.sh | bash
   ```
 
 ### 📚 Software Development Kits (SDKs)

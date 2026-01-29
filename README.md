@@ -12,7 +12,7 @@ This repository serves as the central hub for the TaskForceAI ecosystem. While t
   A powerful terminal user interface for managing agents, conversations, and workflows directly from your command line. Built with Go and Bubble Tea.
 
   ```bash
-  # Install via Homebrew (macOS)
+  # Install via Homebrew
   brew install ClayWarren/taskforceai/taskforceai-cli
 
   # Native Installers (macOS, Linux, WSL)

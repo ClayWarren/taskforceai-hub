@@ -13,11 +13,16 @@ This repository serves as the central hub for the TaskForceAI ecosystem. While t
 
   ```bash
   # Install via Homebrew (macOS)
-  brew tap ClayWarren/taskforceai
-  brew install taskforceai-cli
+  brew install ClayWarren/taskforceai/taskforceai-cli
 
-  # Native Installer (Cross-platform)
+  # Native Installers (macOS, Linux, WSL)
   curl -fsSL https://taskforceai.chat/install.sh | bash
+
+  # Windows Powershell
+  irm https://taskforceai.chat/install.ps1 | iex
+
+  # Windows CMD
+  curl -fsSL https://taskforceai.chat/install.cmd -o install.cmd && install.cmd && del install.cmd
   ```
 
 ### 📚 Software Development Kits (SDKs)
@@ -53,11 +58,6 @@ This repository serves as the central hub for the TaskForceAI ecosystem. While t
 * **[Homebrew Tap](https://github.com/ClayWarren/homebrew-taskforceai)**
 
 Official Homebrew tap for installing and managing TaskForceAI CLI releases on macOS.
-
-```bash
-brew tap ClayWarren/taskforceai
-brew install taskforceai-cli
-```
 
 ## 📖 Documentation
 
